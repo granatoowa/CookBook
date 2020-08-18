@@ -1,0 +1,14 @@
+﻿  func.c
+  main.c
+  menu.c
+C:\Users\granatoowa\source\repos\PrzepisyKulinarne\func.c(168,26): warning C4133: "funkcja": niezgodne typy - od "FILE *" do "FILE *"
+C:\Users\granatoowa\source\repos\PrzepisyKulinarne\menu.c(29,36): warning C4028: formalny parametr 2 różni się od deklaracji
+C:\Users\granatoowa\source\repos\PrzepisyKulinarne\menu.c(77,37): warning C4133: "funkcja": niezgodne typy - od "FILE *" do "FILE *"
+C:\Users\granatoowa\source\repos\PrzepisyKulinarne\menu.c(88,44): warning C4028: formalny parametr 2 różni się od deklaracji
+  struct.c
+C:\Users\granatoowa\source\repos\PrzepisyKulinarne\menu.c(95,56): warning C4028: formalny parametr 2 różni się od deklaracji
+C:\Users\granatoowa\source\repos\PrzepisyKulinarne\struct.c(56,42): warning C4028: formalny parametr 2 różni się od deklaracji
+C:\Users\granatoowa\source\repos\PrzepisyKulinarne\struct.c(62,20): warning C4133: "funkcja": niezgodne typy - od "FILE *" do "FILE *"
+  Generowanie kodu...
+C:\Users\granatoowa\source\repos\PrzepisyKulinarne\struct.c(74,27): warning C4133: "funkcja": niezgodne typy - od "FILE *" do "FILE *"
+  PrzepisyKulinarne.vcxproj -> C:\Users\granatoowa\source\repos\PrzepisyKulinarne\Debug\PrzepisyKulinarne.exe
